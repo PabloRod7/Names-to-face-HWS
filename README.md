@@ -1,4 +1,4 @@
-# Project-10-Names-to-face
+# Names-to-face Haking with Swift
 
 https://www.hackingwithswift.com/100/42
 
